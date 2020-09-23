@@ -1,4 +1,4 @@
-## Go Ethereum
+## ETTC Alliance chain Architecture protocol
 
 Official Golang implementation of the Ethereum protocol.
 
